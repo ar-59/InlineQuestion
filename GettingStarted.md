@@ -1,33 +1,19 @@
 # Getting Started with a Hands-On Lab
 
-1. Once the environment is provisioned, a virtual machine and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. 
+1. Once the environment is provisioned, you will be able to see the lab environment details page on your screen. 
 
-    ![](/Images/labvm.png)
+    ![](/Images/envdetailspage.png)
 
    
 1. Navigate to the lab **Environment** tab, to find the lab environment details. You can also open the Lab Guide on separate and full window by selecting the **Split Window (+)** from the **Top right corner**. Also, you can **start(1), restart(2), and stop(3)** virtual machines from the **Resources** tab.
 
-    ![](./Images/env031.png)
-
-   ![](./images/actions.png)
-
-1. The virtual machine (Lab VM) has several tools installed that you will use during this lab:
-    * Docker Desktop
-    * Git Bash
-    * Visual Studio Code
-    * Microsoft Edge
-  
-**Note:** The Docker engine is configured to start automatically when the VM starts. If you see that Docker Desktop has started automatically, click the minimize button and continue with the further steps.
-
-![](./images/minimize.png)
+    ![](/Images/usernamepassword.png)
 
 ## Login to Azure Portal
-1. In the VM desktop, double click on **Azure portal shortcut**.
+1. Use the provided credentials to login to **portal.azure.com**.
 
-    ![](./images/portal.png)
+    ![](/Images/portal.png)
 
-   
-   
 1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
