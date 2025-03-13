@@ -5,13 +5,13 @@ Question Type : Text Input
 Which is the largest continent in the world? :
 
 ## Answers
-(?i)russia(?-i) : 1
+(?i)asia(?-i) : 1
 
 ## Correct Answer Feedback
 You have provided a correct answer
 
 ## Incorrect Answer Feedback
-Correct answer is 'Russia'
+Correct answer is 'Asia'
 
 ## Tags
 tag1
