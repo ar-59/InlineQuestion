@@ -4,47 +4,62 @@
 
     ![](/Images/envdetailspage.png)
 
-   
-1. Navigate to the lab **Environment** tab, to find the lab environment details. You can also open the Lab Guide on separate and full window by selecting the **Split Window (+)** from the **Top right corner**. Also, you can **start(1), restart(2), and stop(3)** virtual machines from the **Resources** tab.
-
-    ![](/Images/usernamepassword.png)
 
 ## Login to Azure Portal
 1. Use the provided credentials to login to **portal.azure.com**.
 
-    ![](/Images/portal.png)
+    ![](/Images/usernamepassword.png)
 
 1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-   ![](./images/signin01.png)
+   ![](./Images/signin01.png)
    
     
      
 1. Now enter the following password and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
 
-   ![](./images/pw01.png)
+   ![](./Images/signin02.png)
 
-**Note**: If you see the pop-up **Action Required** for setting up two factor authentication click on **Ask Later**.
+**Note**: If you see the pop-up **Action Required** for setting up two factor authentication click on **Next**.
 
-   ![](./images/asklater1.png)
-       
-1. If you see the pop-up **Stay Signed in?**, click **No**.
-
-    ![](./images/stay.png)
-
-1. If you see the pop up **Sign in with microsoft edge**, click **No Thanks** and close the pop up.
-
-    ![](./images/nothanks.png)
-   
-1. If a **Welcome to Microsoft Azure** popup window appears, click on **Cancel** to skip the tour.
-
-   ![](./images/azurewelcome.png)
-   
-1. Use **Next** button from lower right corner to move on to the next page.
-
-   
+   ![](./Images/actionrequired.png)
 
 
+4. On Start by getting the app page, click on **Next**.
 
+5. Click on **Next** twice.
+
+6. In android, go to the play store and Search for **Microsoft Authenticator** and Tap on Install.
+Note:For IOS, Open app store and repeat the steps.
+Note: Skip If already installed.
+
+   ![](./Images/authapp.png)
+
+7. Open the app and tap on **Scan a QR code**.
+
+8. Scan the QR code visible on the screen and click on Next.
+
+   ![](./Images/qrcode.png)
+
+9. Enter the digit displayed on the Screen in the Authenticator app on mobile and tap on Yes.
+
+   ![](./Images/noauthcode.png)
+
+10. Once the notification is approved, click on Next.
+
+   ![](./Images/authcompleted.png)
+
+11. Click on Done.
+
+   ![](./Images/authsuccess.png)
+
+12. If prompted to stay signed in, you can click "No".
+
+   ![](./Images/staysignedin.png)
+
+13. If a Welcome to Microsoft Azure pop-up window appears, simply click "Cancel" to skip the tour.
+
+14. If you see the pop-up You have free Azure Advisor recommendations!, close the window to 
+continue.
