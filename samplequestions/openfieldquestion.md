@@ -1,20 +1,18 @@
 ## Metadata
-Question Type : Single Choice
+Question Type : Text Input
 
 ## Question
-Which application did you use to setup Multi-Factor Authentication? :
-
-## Options
-Option 1: Google Authenticator
-
-Option 2: Amazon Authenticator
-
-Option 3: Microsoft Authenticator
-
-Option 4: Email Verification
+Which is the largest continent in the world? :
 
 ## Answers
-Option 3 : 1
+(?i)russia(?-i) : 1
 
 ## Correct Answer Feedback
-Option 3 is correct answer
+You have provided a correct answer
+
+## Incorrect Answer Feedback
+Correct answer is 'Russia'
+
+## Tags
+tag1
+tag2
