@@ -1,14 +1,14 @@
 # Getting Started with a Hands-On Lab
 
-1. Once the environment is provisioned, you will be able to see the lab environment details page on your screen. 
+1. Once the environment is provisioned, you will be able to see the lab environment details under the **"Environment"** tab on your screen. 
 
-    ![](/Images/envdetailspage.png)
+    ![](./Images/envdetailspage.png)
 
 
 ## Login to Azure Portal
 1. Use the provided credentials to login to **portal.azure.com**.
 
-    ![](/Images/usernamepassword.png)
+    ![](./Images/usernamepassword.png)
 
 1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
@@ -68,3 +68,5 @@ Please answer the following questions:
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion.md" />
 
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/multichoicequestion.md" />
+
+<question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion02.md" />
