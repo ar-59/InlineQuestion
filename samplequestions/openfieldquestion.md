@@ -5,7 +5,7 @@ Question Type : Text Input
 Which is the largest continent in the world? :
 
 ## Answers
-(?i)^(?=.*\("specific_data\.data\.os\.type" == "Windows"\))(?=.*\("adapters_data\.epo_adapter\.id" == \{"\$exists":true,"\$ne":""\}\))(?=.*\("specific_data\.data\.last_seen" >= date\("NOW - 3d"\)\)).*$(?-i) : 1
+(?i)asia(?-i) : 1
 
 ## Correct Answer Feedback
 You have provided a correct answer
