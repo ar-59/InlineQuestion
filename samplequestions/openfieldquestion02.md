@@ -5,7 +5,7 @@ Question Type : Text Input
 What is the correct query? :
 
 ## Answers
-(?i)^(?=.*\("specific_data\.data\.os\.type" == "Windows"\))(?=.*\("adapters_data\.epo_adapter\.id" == \{"\$exists":true,"\$ne":""\}\))(?=.*\("specific_data\.data\.last_seen" >= date\("NOW - 3d"\)\)).*$(?-i) : 1
+(?=.*^)("specific_data.data.os.type" == "Windows") and (("adapters_data.epo_adapter.id" == ({"$exists":true,"$ne":""}))) and ("specific_data.data.last_seen" >= date("NOW - 3d"))(.*$) : 1
 
 ## Correct Answer Feedback
 You have provided a correct answer
