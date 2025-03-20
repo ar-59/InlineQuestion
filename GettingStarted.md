@@ -64,11 +64,11 @@ Note: Skip If already installed.
 14. If you see the pop-up You have free Azure Advisor recommendations!, close the window to 
 continue.
 
-Please answer the following question:
+Please answer the following question 01:
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion.md" />
 
-Please answer the following question:
+Please answer the following question 02:
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/multichoicequestion.md" />
 
-Please answer the following question:
+Please answer the following question 03:
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion02.md" />
