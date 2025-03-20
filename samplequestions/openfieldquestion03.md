@@ -14,4 +14,4 @@ You have provided a correct answer
 Correct answer is: **(("adapters_data.epo_adapter.id" == {"$exists":true,"$ne":""}))) and ("specific_data.data.os.type" == "Windows") and ("specific_data.data.last_seen" >= date("NOW - 3d"))**
 
 ## Number of Retries
-0
+3
