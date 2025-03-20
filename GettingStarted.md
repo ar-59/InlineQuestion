@@ -72,3 +72,6 @@ Please answer the following question 02:
 
 Please answer the following question 03:
 <question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion02.md" />
+
+Please answer the following question 04:
+<question source="https://raw.githubusercontent.com/ar-59/InlineQuestion/refs/heads/main/samplequestions/openfieldquestion03.md" />
